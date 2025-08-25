@@ -79,10 +79,11 @@ Minimalistic **To-Do App** with **React Hooks & State Management**
 ## 🌐 Connect with Me
 <p align="center">
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/yasin_mov"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/yasin-mov"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://t.me/your-telegram-username"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
 ---
 
-⭐️ From [yasin_mov](https://github.com/yasin_mov)
+⭐️ From [yasin-mov](https://github.com/yasin-mov)
