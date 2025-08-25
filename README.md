@@ -9,22 +9,23 @@
 - 🎓 Electronics Engineering student (focus: **Electronics**)  
 - 💻 Passionate about **Frontend Development** & creating modern, responsive UIs  
 - 🚀 Strong focus on **React.js + Tailwind CSS**  
-- 🌱 Currently learning **C Programming** & **Backend basics (Node.js)**  
+- 🌱 Currently learning **C Programming, Node.js & English**  
 - 🎯 Goal: Build real-world projects and grow into a **Full-Stack Developer**  
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🔹 Frontend Development
+### 🔹 Frontend & CMS
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,wordpress" />
 </div>
 
 - **HTML5 / CSS3** (Flexbox, Grid, Animations)  
 - **JavaScript (ES6+)**  
 - **React.js** (Components, State, Hooks, Props)  
 - **Tailwind CSS** (Fast, Responsive UI Design)  
+- **WordPress** (Theme & Plugin Development)  
 - **Responsive Web Design (Mobile-First)**  
 
 ---
@@ -42,6 +43,10 @@
 ---
 
 ### 🔹 Currently Learning
+<div>
+  <img src="https://skillicons.dev/icons?i=c,nodejs,english" />
+</div>
+
 - ⚡ **C Programming**  
 - ⚡ **Node.js Basics** (APIs & simple backend)  
 - ⚡ **English for Developers**  
@@ -60,12 +65,40 @@
 
 ---
 
+## 📌 Featured Projects
+
+### 🔹 [Portfolio Website](#)
+<div>
+  <a href="#"><img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=google-chrome" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</div>
+Responsive portfolio built with **React + Tailwind CSS**  
+*Showcasing skills, projects & contact info*
+
+### 🔹 [Netflix UI Clone](#)
+<div>
+  <a href="#"><img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=google-chrome" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</div>
+Recreated **Netflix landing page** using **React.js & Tailwind**  
+*Responsive design with clean, reusable components*
+
+### 🔹 [React To-Do App](#)
+<div>
+  <a href="#"><img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=google-chrome" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</div>
+Minimal **To-Do App** with **React Hooks & State Management**  
+*Add, delete, and mark tasks easily*
+
+---
+
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:mo.yasin.mo83@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/yasin-mov"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://t.me/Mhmmd_yasin"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/your-telegram-username"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
 ---
