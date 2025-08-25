@@ -60,28 +60,12 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 [Portfolio Website](#)
-Responsive portfolio built with **React + Tailwind CSS**  
-👉 *Showcasing my skills, projects, and contact info*  
-
-### 🔹 [Netflix UI Clone](#)
-Recreated **Netflix landing page** with **React.js & Tailwind**  
-👉 *Responsive design, modern UI, clean components*  
-
-### 🔹 [React To-Do App](#)
-Minimalistic **To-Do App** with **React Hooks & State Management**  
-👉 *Add, delete, and mark tasks easily*  
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:mo.yasin.mo83@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/yasin-mov"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://t.me/your-telegram-username"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/Mhmmd_yasin"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
 ---
