@@ -50,12 +50,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasin_mov&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasin_mov&theme=tokyonight" alt="streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yasin-mov&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasin-mov&theme=tokyonight" alt="streak" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin_mov&layout=compact&theme=tokyonight" alt="langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin-mov&layout=compact&theme=tokyonight" alt="langs" height="150"/>
 </p>
 
 ---
